@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="images/knot2.png" width="45" height="45" alt="Knot Logo" style="vertical-align: middle;">
+    <img src="knot2.png" width="45" height="45" alt="Knot Logo" style="vertical-align: middle;">
     Knot
   </h1>
   <p>A brand-new Xposed module for LINE</p>
